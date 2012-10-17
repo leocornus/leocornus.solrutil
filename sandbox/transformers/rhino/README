@@ -1,0 +1,8 @@
+Rhino Script
+============
+
+Rhino [https://developer.mozilla.org/en-US/docs/Rhino] is the JavaScript engine written entrely in Java.
+It is the build-in scripting language for Sun's implementation of Java version 6.
+Solr's data import handler (DIH) use it as the default scripting language for 
+script transformer.
+We are list some samples here for using it as transformer.

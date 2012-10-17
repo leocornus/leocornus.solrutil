@@ -1,4 +1,6 @@
 leocornus.solrutil
 ==================
 
-Comprehensive Utilities for Lucene and Solr
+Comprehensive Utilities for Lucene/Solr
+
+
